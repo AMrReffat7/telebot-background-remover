@@ -41,7 +41,7 @@ To start using the Telegram Background Removal Bot, follow these simple steps:
 
 3. **Set Up Your Telegram Bot Token:**
 
-   Replace `TOKEN` in the code with your actual Telegram bot token.
+   Replace `TOKEN` in the code with your actual Telegram bot token.\n
    Don't forget to change the paths to the right folders.
 
 ## Usage
