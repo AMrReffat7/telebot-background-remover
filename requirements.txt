@@ -1,0 +1,5 @@
+asyncio==3.4.3
+Pillow==9.0.0
+python-telegram-bot==13.7
+rembg==1.0.2
+PIL==8.4.0
