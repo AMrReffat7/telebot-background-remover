@@ -7,7 +7,7 @@ The Telegram Background Removal Bot helps you remove backgrounds from images rig
 - **Background Removal**: Easily remove backgrounds from images sent to the bot.
 - **Supports Various File Types**: Works with both photos and documents (images) sent via Telegram.
 - **Send Back Results**: Sends back the processed image as both a document and a sticker for convenience.
-
+- **You can try the bot here(https://t.me/removePGtry_bot)
 ## Example Results
 
 Here are a couple of examples of the bot's results:
